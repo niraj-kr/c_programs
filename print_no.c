@@ -1,4 +1,5 @@
-
+/*a Program to in a No from 0-9 and Print the same using
+“*” Pattern.*/
 #include<stdio.h>
 int main(){
             int n,i,j;
